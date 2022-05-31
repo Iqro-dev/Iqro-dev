@@ -33,6 +33,11 @@ I found out that programming is what I love and I wanna tie my future with it.
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/netlify/netlify.png" alt="Netlify"/>
 </div>
 
+### Statistics
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqro-riv&layout=compact&theme=tokyonight" />
+</div>
 <!--
 **Iqro-riv/Iqro-riv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
