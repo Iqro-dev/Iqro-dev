@@ -1,9 +1,9 @@
-### <h1>Welcome 👋</h1>
+### <h1 align="center">Welcome 👋</h1>
 
 I'm a young and aspiring software developer with passion for programming, My journey began when I was 14 years old and I went to high school.
 I found out that programming is what I love and I wanna tie my future with it.
 
-### <h1>Technologies I've used or had contact with</h1>
+### <h1 align="center">Technologies I've used or had contact with</h1>
 
 <div>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="TypeScript">
@@ -33,9 +33,9 @@ I found out that programming is what I love and I wanna tie my future with it.
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/netlify/netlify.png" alt="Netlify"/>
 </div>
 
-### <h1>Statistics</h1>
+### <h1 align="center">Statistics</h1>
 
-<div>
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iqro-riv&count_private=true&show_icons=true&theme=tokyonight" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iqro-riv&theme=tokyonight"/>
 </div>
