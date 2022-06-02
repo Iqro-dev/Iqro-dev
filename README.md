@@ -1,6 +1,6 @@
 ### <h1 align="center">Welcome 👋</h1>
 
-I'm a young and aspiring software developer with passion for programming, My journey began when I was 14 years old and I went to high school.
+I'm a young and aspiring software developer with passion for programming. My journey began when I was 14 years old and I went to high school.
 I found out that programming is what I love and I wanna tie my future with it.
 
 ### <h1 align="center">Technologies I've used or had contact with</h1>
