@@ -17,6 +17,7 @@ I found out that programming is what I love and I wanna tie my future with it.
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" alt="Svelte"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" alt="JSON"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" alt="GraphQl"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nuxt/nuxt.png" alt="Nuxt"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="Next.js"/>
   <img height="40" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest"/>
