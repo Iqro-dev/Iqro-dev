@@ -33,6 +33,7 @@ I found out that programming is what I love and I wanna tie my future with it.
   <img height="40" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="Vuetify"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/netlify/netlify.png" alt="Netlify"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" alt="Nest.js"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#"/>
 </div>
 
 ### <h1 align="center">Statistics</h1>
