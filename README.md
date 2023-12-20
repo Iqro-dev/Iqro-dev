@@ -41,7 +41,7 @@ I found out that programming is what I love and I wanna tie my future with it.
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iqro-dev&count_private=true&show_icons=true&theme=tokyonight" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iqro-dev&theme=tokyonight"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Iqro-dev&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Iqro&layout=compact&theme=tokyonight" />
 </div>
 <!--
 **Iqro-riv/Iqro-riv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
