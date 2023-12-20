@@ -34,7 +34,7 @@ I found out that programming is what I love and I wanna tie my future with it.
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/netlify/netlify.png" alt="Netlify"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" alt="Nest.js"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#"/>
-  <img height="40" src="https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png" alt="Insomnia"/>
+  <img height="40" src="https://seeklogo.com/vector-logo/398689/insomnia" alt="Insomnia"/>
 </div>
 
 ### <h1 align="center">Statistics</h1>
